@@ -1,4 +1,16 @@
 # MyKeylogger 
+ 
+  REQUIREMENTS
+
+* Vscode
+* Node.js
+* Pip install keyboard module
+* Python lib - Import sntplib / From threading import semaphore, timer
+* Users ; email password
+  
+TESTED THIS KEYLOGGER IN [PyCharm]
+YOU CAN RUN THIS IN VSCODE / PYCHARM 
+
 Keylogger using email output 
 Keylogging and Keyloggers
 Keyloggers, or keystroke loggers, are tools that record what a person types on a device. While there are legitimate and legal uses for keyloggers, many uses for keyloggers are malicious. In a keylogger attack, the keylogger software records every keystroke on the victim’s device and sends it to the attacker.
